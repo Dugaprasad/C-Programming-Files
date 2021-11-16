@@ -2,4 +2,4 @@
 programming files
 
 
-https://dugaprasad.github.io/C-Programming-Files/ tap here for the quick preview of my project.
+https://github.com/Dugaprasad/C-Programming-Files tap here for the quick preview of my project.
